@@ -1,5 +1,5 @@
 ### Hi there 👋
-<a href="https://github.com/seanyu4296"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seanyu4296&layout=compact&langs_count=10&hide_border=true&custom_title=Most+used+languages&theme=dark" /></a>&nbsp;<a href="https://github.com/koddr"><img align="center" src="https://github-readme-stats.vercel.app/api?username=seanyu4296&show_icons=true&hide_border=true&theme=dark&line_height=25" alt="seanyu4296's github stats" /></a>
+<a href="https://github.com/seanyu4296"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seanyu4296&layout=compact&langs_count=10&hide_border=true&custom_title=Most+used+languages&theme=dark" /></a>
 <!--
 **seanyu4296/seanyu4296** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
